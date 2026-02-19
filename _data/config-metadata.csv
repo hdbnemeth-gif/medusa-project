@@ -3,6 +3,7 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
+materials,Materials,false
 subject,Subjects,true
 location,Location
 latitude,Latitude
