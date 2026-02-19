@@ -8,8 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
-
 ## Collection Description
 
 Our collection’s theme explores artwork depicting the beheading of Medusa. This is an artistic motif that is quite important because of its prevalence in pottery, statues, and other historical works of art that are generally considered a portal to the fantastic mythology of the past. Relating to the past, our collection contains artworks created from as early as 600 BCE to the beginning of the 21st century. Mainly, the objects in our collection were created during or after the advent of the Industrial Revolution.
