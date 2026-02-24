@@ -2,7 +2,7 @@ color_class,color
 primary, #198754
 secondary,
 success,
-info,
+info, #ffffff
 warning,
 danger,
 light,
