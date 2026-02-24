@@ -2,5 +2,11 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap');
+.h1,h1{
+  font-family: "Luxurious Roman", serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
-body {background: #000000}
+body {background: #000000};
