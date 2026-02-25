@@ -1,8 +1,8 @@
 color_class,color
 primary, #198754
-secondary,
-success,
-info,
+secondary, #fcf1d5
+success, #fcf1d5
+info, #fcf1d5
 warning,
 danger,
 light,
