@@ -1,5 +1,13 @@
 field,display_name
 title,Title
+creator,Creator
 date,Date
 description,Description
 subject,Subjects
+source,Source
+format,Format
+language,Language
+rights,Rights
+rightsstatement,Statement
+materials,Materials
+subcategory,Subcategory
