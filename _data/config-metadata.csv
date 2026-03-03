@@ -3,8 +3,10 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
-materials,Materials,false
+materials,Materials,true
+subcategory,Subcategory,true
 subject,Subjects,true
+source,Source,,true
 location,Location
 latitude,Latitude
 longitude,Longitude
